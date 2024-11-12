@@ -1,1 +1,2 @@
 # Fraud-Detection-Model
+This project aims to develop an advanced fraud detection system that leverages Graph Neural Networks (GNNs) in combination with XGBoost to analyze real-time credit card transactions. By capturing complex relationships between cardholders, merchants, and transactions, the model seeks to uncover organized fraud patterns that traditional models may overlook. The dual model approach—GNN for relationship mapping and XGBoost for refined classification—enhances detection accuracy while minimizing false positives.
